@@ -1,0 +1,26 @@
+[
+    {
+        "image": "../assets/bob-the-builder.jpg",
+        "name": "bob"
+    },
+    {
+        "image": "../assets/dora.webp",
+        "name": "dora"
+    },
+    {
+        "image": "../assets/jackychan.png",
+        "name": "jacky"
+    },
+    {
+        "image": "../assets/mickeyMouse.jpg",
+        "name": "mickey"
+    },
+    {
+        "image": "../assets/mr.bean.avif",
+        "name": "bean"
+    },
+    {
+        "image": "../assets/noddy.avif",
+        "name": "noddy"
+    }
+]
